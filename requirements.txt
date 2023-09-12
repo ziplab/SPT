@@ -1,0 +1,11 @@
+timm==0.5.4
+scikit-image
+ptflops
+easydict
+PyYAML
+pillow
+torchvision==0.9.0
+opencv-python
+tqdm
+pyyaml
+einops
