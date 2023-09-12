@@ -120,7 +120,7 @@ PS: we sweep different trainable parameter budgets to seek potential better resu
 
 ```
 - [x] Release code for SPT on ViTs.
-- [x] Release code for FGVC benchmark training (ETA October).
+- [ ] Release code for FGVC benchmark training (ETA October).
 - [ ] Release code for SPT on Swin (ETA October).
 - [ ] Release code for SPT on ConvNext (ETA October).
 - [ ] Integrate to [PEFT](https://github.com/huggingface/peft) package.
