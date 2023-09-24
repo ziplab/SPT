@@ -1,6 +1,6 @@
 <h1 align="center">Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning</h1>
 
-**[ICCV 2023] (oral) This is the official repository for our paper:** [Sensitivity-Aware Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.08566) by [Haoyu He](https://charles-haoyuhe.github.io/), [Jianfei Cai](https://jianfei-cai.github.io/), [Jing Zhang](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=en), [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) and [Bohan Zhuang](https://bohanzhuang.github.io/).
+**[ICCV 2023] (oral) This is the official repository for our paper:** [Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.08566) by [Haoyu He](https://charles-haoyuhe.github.io/), [Jianfei Cai](https://jianfei-cai.github.io/), [Jing Zhang](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=en), [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) and [Bohan Zhuang](https://bohanzhuang.github.io/).
 ***
 ><h3><strong><i>🚀 News</i></strong></h3>
 >[2023-09-12]: Release code.
